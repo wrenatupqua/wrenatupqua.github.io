@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CONTACT
-permalink: /Contact/
+permalink: /contact/
 ---
 
 ##### Email: <a href="mailto:wrenatupquaruiz@gmail.com">wrenatupquaruiz@gmail.com</a>
