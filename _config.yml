@@ -2,7 +2,9 @@ title: Wren Atupqua Ruiz
 author:
   name: 
   email: wrenatupquaruiz@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:" Art
+description: > # this means to ignore newlines until "show_excerpts:" 
+Art
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
