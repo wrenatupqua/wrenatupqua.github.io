@@ -15,7 +15,7 @@ minima:
   social_links:
     instagram: wren_atupqua
 
-header_pages:
+#header_pages: 
  - works.md
  - about.md
  - contact.md
