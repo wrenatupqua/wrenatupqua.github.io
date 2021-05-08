@@ -17,9 +17,9 @@ minima:
     instagram: wren_atupqua
 
 #header_pages: 
- - works.md
- - about.md
- - contact.md
+# - works.md
+# - about.md
+# - contact.md
 
 # Build settings
 theme: minima
