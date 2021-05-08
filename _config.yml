@@ -1,7 +1,7 @@
 title: Wren Atupqua Ruiz
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: 
+  email: wrenatupquaruiz@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Art
 
@@ -53,6 +53,6 @@ minima:
 # Build settings
 theme: minima
 
-plugins:
+# plugins:
  - jekyll-feed
  - jekyll-seo-tag
