@@ -8,5 +8,5 @@
 layout: home
 ---
 ![07_Untitled](https://user-images.githubusercontent.com/83798945/117521096-f0c0c180-af79-11eb-9968-1c5c91684e04.jpg)
-##### Text text text stuff stuff stuff
-###### Text text text stuff stuff stuff
+##### 
+###### 
