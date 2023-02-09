@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SELECT WORKS
+title: WORKS | OBRAS
 permalink: /works/
 ---
 <p align="center">
