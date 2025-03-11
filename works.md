@@ -4,6 +4,10 @@ title: WORKS | OBRAS
 permalink: /works/
 ---
 <p align="center">
+<img src="https://github.com/user-attachments/assets/98f71630-e25b-4c0c-bbc3-96c9e593de6c" width="500">
+</p>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/83798945/117523325-4a2eed80-af86-11eb-8d5a-f0e15c3af75d.jpg" width="500">
 </p>
   
